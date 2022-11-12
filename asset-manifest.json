@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memories-app/static/css/main.25336470.chunk.css",
+    "main.js": "/memories-app/static/js/main.689a0582.chunk.js",
+    "main.js.map": "/memories-app/static/js/main.689a0582.chunk.js.map",
+    "runtime-main.js": "/memories-app/static/js/runtime-main.e302f67b.js",
+    "runtime-main.js.map": "/memories-app/static/js/runtime-main.e302f67b.js.map",
+    "static/js/2.63646601.chunk.js": "/memories-app/static/js/2.63646601.chunk.js",
+    "static/js/2.63646601.chunk.js.map": "/memories-app/static/js/2.63646601.chunk.js.map",
+    "index.html": "/memories-app/index.html",
+    "precache-manifest.49ce86dd10c8ac2a4313a3dd4e00ddfd.js": "/memories-app/precache-manifest.49ce86dd10c8ac2a4313a3dd4e00ddfd.js",
+    "service-worker.js": "/memories-app/service-worker.js",
+    "static/css/main.25336470.chunk.css.map": "/memories-app/static/css/main.25336470.chunk.css.map",
+    "static/js/2.63646601.chunk.js.LICENSE.txt": "/memories-app/static/js/2.63646601.chunk.js.LICENSE.txt",
+    "static/js/main.689a0582.chunk.js.LICENSE.txt": "/memories-app/static/js/main.689a0582.chunk.js.LICENSE.txt",
+    "static/media/memories.png": "/memories-app/static/media/memories.5c0c63fb.png",
+    "static/media/memoriesLogo.png": "/memories-app/static/media/memoriesLogo.8e9763ff.png",
+    "static/media/memoriesText.png": "/memories-app/static/media/memoriesText.6c7b5ec0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e302f67b.js",
+    "static/js/2.63646601.chunk.js",
+    "static/css/main.25336470.chunk.css",
+    "static/js/main.689a0582.chunk.js"
+  ]
+}
